@@ -9,6 +9,13 @@
 
 - ⚡ What I like to do: **I really enjoy reading, listening to electronic music, surfing... and coding, of course.**
 
+<h3 align="center">Connect with me</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordiaragonzaragoza/)
+  
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -35,9 +42,4 @@
   </a> 
 </p>
 
-<h3 align="center">Connect with me</h3>
-<div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordiaragonzaragoza/)
-  
-</div>
