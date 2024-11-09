@@ -3,7 +3,7 @@
 
 <p>I am looking to develop my professional career in a continuous improvement environment, where I can apply solid and scalable software architectures.</p>
 
-- 🤩 I love backend and cross-platform projects in the .NET ecosystem.**
+- 🤩 I love backend and cross-platform projects in the .NET ecosystem.
 
 - 🌱 I’m currently self-learning/improving **DDD, Clean Architecture and Microservices** 
 
