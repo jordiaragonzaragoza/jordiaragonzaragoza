@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jordi Aragon Zaragoza </h1>
-<h3 align="center">A passionate software developer with strong knowledge in Microsoft technologies from Spain</h3>
+<h1 align="center">Hi 👋, I'm Jordi Aragon Zaragoza</h1>
+<h3 align="center">Backend Software Engineer | .NET | DDD | Event Sourcing | Microservices</h3>
 
-<p>I am looking to develop my professional career in a continuous improvement environment, where I can apply solid and scalable software architectures.</p>
+<p>
+I design and build scalable backend systems using Domain-Driven Design, Event Sourcing and distributed architectures. 
+My focus is on creating clean, maintainable and resilient solutions following modern engineering practices.
+</p>
 
-- 🤩 I love backend and cross-platform projects in the .NET ecosystem.
-
-- 🌱 I’m currently self-learning/improving **DDD, Clean Architecture and Microservices** 
-
-- ⚡ What I like to do: **I really enjoy reading, listening to electronic music, surfing... and coding, of course.**
+- 🏗 Specialized in **DDD, CQRS, Event Sourcing and Microservices Architecture**  
+- 💻 Strong background in the .NET ecosystem  
+- 🔁 Experience with event-driven systems and distributed workflows  
+- 📈 Passionate about software quality, testing and continuous improvement  
+- ⚡ Music, surfing, reading — and building great software
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
@@ -30,7 +33,10 @@
   </a>
   <a href="https://azure.microsoft.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
-  </a>   
+  </a>
+  <a href="https://aspire.dev/" target="_blank"> 
+    <img src="https://aspire.dev/_astro/aspire-logo-32.DGHSFRgf.svg" alt="aspire" width="40" height="40"/> 
+  </a> 
   <a href="https://wordpress.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> 
   </a>
