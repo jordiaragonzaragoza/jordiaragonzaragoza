@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Aragon Zaragoza</h1>
-<h3 align="center">Backend Software Engineer | .NET | DDD | Event Sourcing | Microservices</h3>
+<h3 align="center">Senior Software Engineer | .NET | DDD | Event Sourcing | Microservices</h3>
 
 <p>
 I design and build scalable backend systems using Domain-Driven Design, Event Sourcing and distributed architectures. 
